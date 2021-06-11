@@ -1,2 +1,2 @@
 # EatSketch-compositon
-Composition of  tune using EarSketch in python.
+Composition of  a tune using EarSketch in python.
